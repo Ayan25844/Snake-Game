@@ -1,4 +1,4 @@
-MOVE_DISTANCE=23
+MOVE_DISTANCE=20
 from turtle import Turtle
 
 class Snake():
